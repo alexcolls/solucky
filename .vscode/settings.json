@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "askForPassword": true,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "connectString": "postgres://zlrmcwid:07bjXoJQKL2_LqGjZHjI6vR9ro8GM6UP@lucky.db.elephantsql.com/zlrmcwid",
+      "name": "solucky-1"
+    }
+  ]
+}
