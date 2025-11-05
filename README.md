@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎰 SOLucky
+# 🎰 [SOLucky](https://dailywin.sol)
 
 Website: [dailywin.sol](https://dailywin.sol)
 Account: [ArrZMZh5heYyy4hWzcEXbV2wbxyHxf7rugEvFuNzE3LE](https://explorer.solana.com/address/ArrZMZh5heYyy4hWzcEXbV2wbxyHxf7rugEvFuNzE3LE?cluster=mainnet)
