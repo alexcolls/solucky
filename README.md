@@ -2,7 +2,7 @@
 
 # 🎰 SOLucky
 
-Website: dailywin.sol[https://dailywin.sol]
+Website: [dailywin.sol](https://dailywin.sol)
 Account: ArrZMZh5heYyy4hWzcEXbV2wbxyHxf7rugEvFuNzE3LE
 
 ### *Decentralized Daily Lottery on Solana*
