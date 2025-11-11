@@ -1,10 +1,10 @@
 <template>
 <div>
-  <header>
+  <!-- <header>
   <video autoplay loop  play class="fixed -z-10 w-auto min-w-full min-h-full opacity-60">
     <source src="./assets/vids/hero.mp4" type="video/mp4" />
   </video>
-</header>
+</header> -->
   <div :class="this.$store.state.dark ? 'bg-black/50' : 'bg-white/50'">
     <NavbarWallet :users="users" :balance="balance" :time="time" class="z-50 fixed"/>
     <hero-section class="bg-transparent"></hero-section>
